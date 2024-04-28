@@ -2,4 +2,4 @@ Conducted a research project utilizing advanced statistical and machine learning
 
 collaborators: Kathy Chen, Joshua Blank
 
-pdf: [Predictive Modeling of Alcohol Consumption Among Students and Hospital Patients.pdf](https://github.com/kathychen55555/Predictive-Modeling-of-Alcohol-Consumption-Among-Students-and-Hospital-Patients/files/15059790/Predictive.Modeling.of.Alcohol.Consumption.Among.Students.and.Hospital.Patients.pdf)
+pdf: [Predictive Modeling of Alcohol Consumption Among Students and Hospital Patients.pdf](https://github.com/kathychen55555/Predictive-Modeling-of-Alcohol-Consumption-Among-Students-and-Hospital-Patients/files/15143988/Predictive.Modeling.of.Alcohol.Consumption.Among.Students.and.Hospital.Patients.pdf)
