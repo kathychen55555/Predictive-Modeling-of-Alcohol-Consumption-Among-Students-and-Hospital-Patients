@@ -4,17 +4,19 @@ Programming Skills: R
 
 Skills Used: data cleaning, machine learning, cross validation
 
-Linear regression
+- Linear regression
 
-KNN Regression
+- KNN Regression
 
-KNN Classification
+- KNN Classification
 
-Linear Discriminant Analysis Decision Tree
+- Linear Discriminant Analysis
 
-Random Forest
+- Decision Tree
 
-Support Vector Machine
+- Random Forest
+
+- Support Vector Machine
 
 
 collaborators: Kathy Chen, Joshua Blank
